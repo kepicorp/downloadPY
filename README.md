@@ -12,6 +12,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python downloadPY http://linktoyoutubevideo
+python downloadPY.py http://linktoyoutubevideo
 ```
 
